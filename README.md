@@ -14,7 +14,7 @@ The first, formatting, is not something that will impact your code compiling. Pr
 
 The second, Syntax errors, include things like unclosed or missing tags, improper nesting, and misspellings in tag names.
 
-#### Part One: Formatting
+### Part One: Formatting
 If you look in part_one.html you'll see a file of correct html that compiles. However, the formatting is messy and hard to read. Try fixing this format yourself so that there is:
 * One opening tag on each line
 * One closing tag on each line (a closing tag can be on the same line as its opening tag if there are no child elements)
@@ -23,7 +23,7 @@ If you look in part_one.html you'll see a file of correct html that compiles. Ho
 Once you think you've finished formatting this correctly, your IDE offers a great way for you to check your work. Go to Edit, Reformat Code, then select html format. Make sure you finish yourself **before** checking your work so you can develop your own intuition for this.
 
 
-#### Part Two: Fixing Bugs
+### Part Two: Fixing Bugs
 In this section of the lab we'll be working in several files. You'll be looking at correctly formatted code and fixing the bugs described so that your html code compiles. You'll know that your code is compiling when you can preview the html file. If your code format changes significantly (more than inserting a carrot or another line for a tag), then you've likely misplaced a new tag.
 
 **File One: part_two_a.html**
@@ -56,7 +56,7 @@ To give yourself additional tools to find the errors in this code consider using
 * [Validator 2](https://validator.w3.org/nu/#textarea)
 * [Validator 3](http://www.htmlhelp.com/tools/validator/direct.html.en)
 
-#### Part Three: Bringing it Together
+### Part Three: Bringing it Together
 
 In the previous bug finding tasks you've been given already formatted code, now let's take a look at how much more difficult it is to find bugs when code **isn't** formatted.
 
@@ -70,6 +70,6 @@ In the previous bug finding tasks you've been given already formatted code, now 
 
 Notice, both of these files had the same number of bugs, reflect on which was easier to debug!
 
-#### Extension
+### Extension
 
 Swap computers with a neighbor and write your own html file on their computer. Add all of the bugs and formatting mistakes that you desire. When both of you have finished your bug filled files, swap back computers and use all of the tools discussed above to get the html up and running!
