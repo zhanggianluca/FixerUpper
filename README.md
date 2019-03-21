@@ -71,5 +71,19 @@ In the previous bug finding tasks you've been given already formatted code, now 
 Notice, both of these files had the same number of bugs, reflect on which was easier to debug!
 
 ### Extension
+Swap computers with a neighbor and write your own html file on their computer. Follow the outline below for each level of this extension. After each level, swap back computers and use all of the tools discussed above to get the html up and running! In addition to the details provided in each level you can add as many formatting issues (white space related) as you want.
 
-Swap computers with a neighbor and write your own html file on their computer. Add all of the bugs and formatting mistakes that you desire. When both of you have finished your bug filled files, swap back computers and use all of the tools discussed above to get the html up and running!
+#### Level One:
+* Up to three missing tags (opening or closing)
+* One incomplete tag
+
+#### Level Two:
+* Up to three incomplete tags
+* One misspelling
+* Two tags missing attributes
+
+#### Level Three:
+* Up to five missing tags
+* Up to four incomplete tags
+* Up to three misspellings
+* Up to three tags with missing attributes
