@@ -14,6 +14,7 @@ The first, formatting, is not something that will impact your code compiling. Pr
 
 The second, Syntax errors, include things like unclosed or missing tags, improper nesting, and misspellings in tag names.
 
+
 ### Part One: Formatting
 If you look in part_one.html you'll see a file of correct html that compiles. However, the formatting is messy and hard to read. Try fixing this format yourself so that there is:
 * One opening tag on each line
@@ -70,8 +71,12 @@ In the previous bug finding tasks you've been given already formatted code, now 
 
 Notice, both of these files had the same number of bugs, reflect on which was easier to debug!
 
-### Extension
-Swap computers with a neighbor and write your own html file on their computer. Follow the outline below for each level of this extension. After each level, swap back computers and use all of the tools discussed above to get the html up and running! In addition to the details provided in each level you can add as many formatting issues (white space related) as you want.
+### Reflection and Extension
+1.Use comments to describe what exactly you fixed in each file. Be specific.
+
+2.Create one( or two) new HTML files on your own and include errors for any HTML tags you want as outlined below. Name your your files as yourfirst_name_level1, yourfirst_name_level2, OR yourfirst_name_level2. 
+
+Follow the outline below for each level of this extension. In addition to the details provided in each level you can add as many formatting issues as you want.
 
 #### Level One:
 * Up to three missing tags (opening or closing)
