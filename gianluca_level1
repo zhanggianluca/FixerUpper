@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Extension</title
+  </head>
+  <body>
+  
+    <div class="main">
+      Title</h1>
+      <h2>Subtitle</h2>    
+      <div class="article">
+        <h3>Title</h3>
+        <p>Caption
+      </div>
+      
+  </body>
+</html>
 
+
+   
